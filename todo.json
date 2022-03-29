@@ -1,0 +1,20 @@
+[
+    {
+        "id": "TODO-1",
+        "created_at": "29-Mar-2022 07:53:13",
+        "content": "Write code",
+        "status": "done"
+    },
+    {
+        "id": "TODO-2",
+        "created_at": "29-Mar-2022 07:53:36",
+        "content": "Look UP",
+        "status": "rejected"
+    },
+    {
+        "id": "TODO-3",
+        "created_at": "29-Mar-2022 07:54:34",
+        "content": "Take a look at TODO-2, it's important!!!",
+        "status": "in-progress"
+    }
+]

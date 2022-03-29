@@ -1,0 +1,12 @@
+{
+    "name": "iscornici/to-do-procedure",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Iscornici\\ToDoProcedure\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "^6.0"
+    }
+}
